@@ -1,0 +1,2 @@
+# JniSample
+jni sample
